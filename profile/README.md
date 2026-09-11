@@ -1,4 +1,4 @@
-Payneteasy is a leading payment platform provider.
+## Payneteasy is a leading payment platform provider.
 
 The best white-label payment gateway for PSPs and an advanced Orchestration Platform for large merchants to enable seamless payment processing.
 
